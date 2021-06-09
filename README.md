@@ -25,3 +25,12 @@ An example of feature extraction steps
 4. Classification and visualizing error. Finally, you'll write one function that uses your features to classify any traffic light image. This function will take in an image and output a label. You'll also be given code to classify a test set of data, compare your predicted label with the true label, and determine the accuracy of your classification model.
 
 5. Evaluate your model. To pass this project, your classifier must be >90% accurate and never classify any red lights as green; it's likely that you'll need to improve the accuracy of your classifier by changing existing features or adding new features. I'd also encourage you to try to get as close to 100% accuracy as possible!
+
+Install:
+import cv2 # computer vision library
+import helpers # helper functions
+
+import random
+import numpy as np
+import matplotlib.pyplot as plt
+import matplotlib.image as mpimg
