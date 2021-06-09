@@ -22,7 +22,7 @@ In the provided notebook, you'll pre-process these images, extract features that
 
 **Install:**
 
-'import cv2 _# computer vision library_
+'import cv2 _# computer vision library_'
 
 import helpers _# helper functions_
 
@@ -32,4 +32,4 @@ import numpy as np
 
 import matplotlib.pyplot as plt
 
-import matplotlib.image as mpimg'
+import matplotlib.image as mpimg
