@@ -24,12 +24,12 @@ In the provided notebook, you'll pre-process these images, extract features that
 
 `import cv2 _# computer vision library_ `
 
-import helpers _# helper functions_
+`import helpers _# helper functions_ `
 
-import random
+`import random`
 
-import numpy as np
+`import numpy as np`
 
-import matplotlib.pyplot as plt
+`import matplotlib.pyplot as plt`
 
-import matplotlib.image as mpimg
+`import matplotlib.image as mpimg`
