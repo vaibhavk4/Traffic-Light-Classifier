@@ -1,13 +1,13 @@
 # Traffic-Light-Classifier-Project
 
-Project Overview
+**Project Overview**
 Traffic Light Classifier
 In this project, you’ll use your knowledge of computer vision techniques to build a classifier for images of traffic lights! You'll be given a dataset of traffic light images in which one of three lights is illuminated: red, yellow, or green.
 
 
-Images from the dataset. Left to right: red, green, and yellow traffic lights.
+Images from the dataset. Left to right: **red, green, and yellow traffic lights.**
 
-Classification Steps
+**Classification Steps**
 In the provided notebook, you'll pre-process these images, extract features that will help distinguish the different types of images, and use those features to classify the traffic light images into three categories: red, yellow, or green. The tasks will be broken down into a few sections:
 
 1. Loading and visualizing the data. The first step in any classification task is to be familiar with your data; you'll need to load in the images of traffic lights and visualize them!
@@ -20,11 +20,11 @@ In the provided notebook, you'll pre-process these images, extract features that
 
 5. Evaluate your model. To pass this project, your classifier must be >90% accurate and never classify any red lights as green; it's likely that you'll need to improve the accuracy of your classifier by changing existing features or adding new features. I'd also encourage you to try to get as close to 100% accuracy as possible!
 
-Install:
+**Install:**
 
-import cv2 # computer vision library
+import cv2 _# computer vision library_
 
-import helpers # helper functions
+import helpers _# helper functions_
 
 import random
 
