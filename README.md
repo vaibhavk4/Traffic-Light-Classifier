@@ -28,9 +28,13 @@ An example of feature extraction steps
 
 Install:
 import cv2 # computer vision library
+
 import helpers # helper functions
 
 import random
+
 import numpy as np
+
 import matplotlib.pyplot as plt
+
 import matplotlib.image as mpimg
